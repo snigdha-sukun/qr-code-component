@@ -1,0 +1,46 @@
+body {
+    background-color: #d5e1ef;
+    font-family: "Lucida Sans Unicode", "Trebuchet MS", "Liberation Sans", "Nimbus Sans L", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color: #7D889E;
+}
+
+.box {
+    display: block;
+    background-color: white;
+    position: absolute;
+    width: 320px;
+    height: auto;
+    left: 35%;
+    top: 5%;
+    border-radius: 3%;
+}
+
+img {
+    position: relative;
+    width: 280px;
+    height: 280px;
+    border-radius: 3%;
+    margin-top: 7%;
+}
+
+h1 {
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    color: #1F314F;
+}
+
+.text-box {
+    display: block;
+    position: relative;
+    width: 280px;
+    height: auto;
+    padding: 5%;
+    top: 5%;
+}
