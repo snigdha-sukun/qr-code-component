@@ -1,11 +1,12 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -18,6 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
+### Link
+
+- Live Site URL: [QR Code Component](https://qr-code-component-one-sable.vercel.app/)
+
 ## My process
 
 ### Built with
@@ -28,7 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 Figma file certainly made things easier as I could get the exact colour easily. Getting the correct position was a struggle but I finally succeeded.
-
 
 ```css
 .box {
@@ -46,9 +50,11 @@ img {
 }
 ```
 
+I also learned how to deploy a website using vercel. It too some trial & error but I was finally able to do it.
+
 ### Continued development
 
-I still need to practice the positioning an element more.
+I still need to practice the positioning an element more. I also need to learn about CSS in general & HTML5 rules.
 
 ## Author
 
