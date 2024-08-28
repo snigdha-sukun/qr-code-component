@@ -8,6 +8,11 @@ body {
     text-align: center;
     letter-spacing: 0.1875px;
     color: #7D889E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 .box {
